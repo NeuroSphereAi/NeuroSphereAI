@@ -28,4 +28,4 @@ Built on Django, (enhaned by AI/ML)
 - ```cd neurosphere```
 - ```python manage.py runserver```
 
-By Runtime Error
+By Runtime Error 3.0
