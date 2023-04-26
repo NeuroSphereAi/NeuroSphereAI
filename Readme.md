@@ -1,4 +1,4 @@
-neurosphere/
+```neurosphere/
 ├── hire/
 │   ├── migrations/
 │   ├── static/
@@ -22,7 +22,7 @@ neurosphere/
 │   └── wsgi.py
 └── manage.py
 
-
+```
 
 env\Scripts\activae
 cd neurosphere
