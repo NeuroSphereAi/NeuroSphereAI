@@ -24,6 +24,6 @@
 
 ```
 
-env\Scripts\activae
-cd neurosphere
-python manage.py runserver
+```env\Scripts\activate```
+```cd neurosphere```
+```python manage.py runserver```
