@@ -23,7 +23,9 @@
 └── manage.py
 
 ```
+Built on Django, (enhaned by AI/ML) 
+- ```env\Scripts\activate```
+- ```cd neurosphere```
+- ```python manage.py runserver```
 
-```env\Scripts\activate```
-```cd neurosphere```
-```python manage.py runserver```
+By Runtime Error
